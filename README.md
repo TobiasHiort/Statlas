@@ -3,4 +3,4 @@ An interactive visualization of global statistics written in JavaScript and powe
 
 ## Status
 Work in progress.  
-Preview at [https://statlas-reddit.github.io/](https://statlas-reddit.github.io/) (slow).
+Preview at [https://statlas-reddit.github.io/](https://statlas-reddit.github.io/) (slow and buggy).
